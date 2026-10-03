@@ -1,0 +1,28 @@
+2024-10-19 22:07
+
+
+Tags: [[Psychiatry]]
+
+Mechanism of action
+
+Adverse effects
+
+What foods to avoid and why?
+# Monoamine oxidase inhibitors
+
+Overview  
+
+- serotonin and noradrenaline are metabolised by monoamine oxidase in the presynaptic cell
+
+Non-selective monoamine oxidase inhibitors  
+
+- e.g. tranylcypromine, phenelzine
+- used in the treatment of atypical depression (e.g. hyperphagia) and other psychiatric disorder
+- not used frequently due to side-effects
+
+Adverse effects of non-selective monoamine oxidase inhibitors  
+
+- hypertensive reactions with tyramine containing foods e.g. cheese, pickled herring, Bovril, Oxo, Marmite, broad beans
+- anticholinergic effects
+# References
+

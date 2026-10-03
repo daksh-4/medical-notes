@@ -1,0 +1,22 @@
+2024-11-20 13:37
+
+Status: 
+
+Tags: [[Psychiatry]] [[Pharmacology]]
+
+# Z drugs
+
+Z drugs have similar effects to benzodiazepines but are different structurally. They act on the α2-subunit of the GABA receptor.  
+  
+They can be divided into 3 groups:   
+
+- Imidazopyridines: e.g. zolpidem
+- Cyclopyrrolones: e.g. zopiclone
+- Pyrazolopyrimidines: e.g. zaleplon
+
+Adverse effects  
+
+- similar to benzodiazepines
+- increase the risk of falls in the elderly
+# References
+

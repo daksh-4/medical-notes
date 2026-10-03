@@ -1,0 +1,53 @@
+# Notes that link to a specialty tag but are work/application/research drafts, not study notes.
+# One note title per line. Remove a line to publish that note.
+Abstract Drafts for Work Paper
+Alteplase and Tenecteplase Prescribing Trends
+Influence of Pharma Backing on Prescribing
+Jahanara Draft 2 Introduction
+KURF Application
+NANSIG Application
+PCAIS
+Strontium Ranelate Reviewers Comments
+tPA old drafts
+# Research / admin / personal / question-bank notes with a stray specialty tag (added after reviewing the full list)
+Anki prompt
+Audit Website Technical Specification
+BSR Poster Script
+Baylab Research Experience
+Bayslab Literature Review
+Bennett Linkedin Post
+Cambridge Intercalation
+Centre for Rheumatic Disease
+Claude thoughts
+Craik Journal Club
+Efficient Coding
+Experimental symmetry paper
+Humans learn generalizable representations through efficient coding Fang and Sims JC
+Microsaccades strongly modulate but do not directly cause the EEG N2pc marker of spatial attention
+Model documentation
+Normalization as a canonical neural computation
+Phase symmetry model
+Proust and Neuroscience
+Research Skills Workshop
+Richard Perry
+Roshni
+STAN model explanation
+Strontium Ranelate Proof Review
+Strontium Ranelate Response Text
+TRCN Risk Assessment
+TeQ Student Internship
+Thesis formatting
+Tutoring
+NeuroWorks Talk Transcript
+UWorld Biochemistry Block
+UWorld Cardiology Block
+UWorld Dermatology Block
+UWorld Infectious Disease Block
+UWorld Neuro Block
+Zotero Template
+blakeStrontiumRanelateNovel2006
+What Geometric Visual Hallucinations Tell Us about the Visual Cortex
+mi in ie
+papa birthday
+No file
+Mednex
